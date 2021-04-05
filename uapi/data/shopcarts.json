@@ -1,0 +1,11 @@
+﻿{
+  "_id" : ObjectId("5d9e9ae3ab4e5b289ce9147d"),
+  "userid" : "5d9c215c88d1282b5089cc1b",
+  "goodsid" : "5d9b4a62b663860684c09c28",
+  "goods_title" : "小米9pro",
+  "goods_price" : 3599,
+  "goods_img" : "/upload/094b3b10-e90e-11e9-acf2-378474155d6f.png",
+  "goods_num" : 1,
+  "checked" : true,
+  "__v" : 0
+}

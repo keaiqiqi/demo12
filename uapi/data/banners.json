@@ -1,0 +1,12 @@
+﻿{
+  "_id" : ObjectId("5daae52feaa04b2da8001579"),
+  "title" : "轮播图1",
+  "imgurl" : "/upload/40716130-1421-11ea-92eb-b9cf0dce95c8.jpg",
+  "__v" : 0
+}
+{
+  "_id" : ObjectId("5daae542eaa04b2da800157a"),
+  "title" : "轮播图2",
+  "imgurl" : "/upload/47bb3970-1421-11ea-92eb-b9cf0dce95c8.jpg",
+  "__v" : 0
+}

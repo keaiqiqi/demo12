@@ -1,0 +1,30 @@
+﻿{
+  "_id" : ObjectId("5da060c7736d61269c077cf3"),
+  "cate" : "手机",
+  "title" : "小米",
+  "price" : 1699,
+  "desc" : "",
+  "status" : 1,
+  "imgurl" : "/upload/53235190-ec16-11e9-b575-ef301311ca91.jpg",
+  "__v" : 0
+}
+{
+  "_id" : ObjectId("5da060eb736d61269c077cf4"),
+  "cate" : "手机",
+  "title" : "红米",
+  "price" : 1799,
+  "desc" : "",
+  "status" : 1,
+  "imgurl" : "/upload/687da090-ec16-11e9-b575-ef301311ca91.jpg",
+  "__v" : 0
+}
+{
+  "_id" : ObjectId("5da06104736d61269c077cf5"),
+  "cate" : "电脑",
+  "title" : "联想拯救者",
+  "price" : 6999,
+  "desc" : "",
+  "status" : 1,
+  "imgurl" : "/upload/76f90e20-ec16-11e9-b575-ef301311ca91.jpg",
+  "__v" : 0
+}
